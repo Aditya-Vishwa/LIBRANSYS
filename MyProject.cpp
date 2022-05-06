@@ -11,7 +11,7 @@ using namespace std;
    system("pause") or input loop */
 
 int main(int argc, char** argv) {
-	
+
 int outerChoice = 0;
 while(outerChoice!=3){
 	system("cls");
