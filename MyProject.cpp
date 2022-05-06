@@ -16,7 +16,7 @@ int outerChoice = 0;
 while(outerChoice!=3){
 	system("cls");
 	system("color C7");
-	cout<<"\n Library Management System By Monica Tara \n\n";
+	cout<<"\n Library Management System \n\n";
 	cout<<"\n1. Admin";
 	cout<<"\n2. User";
 	cout<<"\n3. Exit";
